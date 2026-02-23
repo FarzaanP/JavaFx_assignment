@@ -7,6 +7,15 @@
 
 }
 
+.table-view .column-header {
+    -fx-background-color: #575454;
+    -fx-border-color: #575454;
+}
+
+.table-view .column-header .label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #dad1d1;
+}
 .button {
     -fx-background-color: #B8860B;
     -fx-text-fill: black;
@@ -22,7 +31,6 @@
 }
 
 .footer {
-    -fx-background-color: #808080;
-    -fx-border-color: #B8860B;
-    -fx-border-width: 0 0 5 0;
+    -fx-background-color: #575454;
+    -fx-border-color: #575454;
 }
