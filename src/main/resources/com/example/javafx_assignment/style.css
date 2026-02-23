@@ -1,0 +1,28 @@
+.left-sidebar {
+    -fx-background-color: #B8860B;
+}
+
+.right-sidebar {
+    -fx-background-color: #7CFC00;
+
+}
+
+.button {
+    -fx-background-color: #B8860B;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+.menu-bar {
+    -fx-background-color: #8e4f03;
+}
+
+.menu-bar .label {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.footer {
+    -fx-background-color: #808080;
+    -fx-border-color: #B8860B;
+    -fx-border-width: 0 0 5 0;
+}
